@@ -6,16 +6,13 @@ import lombok.Getter;
 import lombok.Setter;
 
 import java.util.Objects;
-
-
-
 @AllArgsConstructor
 @Builder
 @Getter
 @Setter
 public class User {
 
-    private String id;
+    private int id;
     private String name;
 //    private String surname;
 //    private String email;

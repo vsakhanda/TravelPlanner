@@ -5,19 +5,22 @@ import lombok.Builder;
 import lombok.Getter;
 import lombok.Setter;
 
-import java.util.Objects;
-
 @AllArgsConstructor
 @Builder
 @Getter
 @Setter
-public class Trip {
+public class Route {
 
     private int id;
     private String name;
-//    private int author;
+//    private String author;
 //    private String description;
-//    private String datetime;
-//    private boolean is_compleated;
+//    private String startpoint;
+//    private String endpoint;
+//    private boolean is_private;
+//    private boolean is_round_route;
+
+    //point<List point>;
+
 
 }
