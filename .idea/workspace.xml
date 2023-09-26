@@ -4,26 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3347111e-3969-4078-9cc3-bafe9df08bdc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dreams_2/project/model/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dreams_2/project/model/Point.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/dreams_2/project/ProjectDreamApplicationTests 2.java" beforeDir="false" />
-    </list>
+    <list default="true" id="3347111e-3969-4078-9cc3-bafe9df08bdc" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Merge.Settings">
-    <option name="BRANCH" value="new-new" />
+    <option name="BRANCH" value="travelplanner/main" />
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="travelplanner/master" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -58,7 +58,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "spring",
+    "git-widget-placeholder": "main",
     "node.js.selected.package.tslint": "(autodetect)",
     "onboarding.tips.debug.path": "/Users/macuser/IdeaProjects/Dream-2/src/main/java/org/example/Main.java",
     "vue.rearranger.settings.migration": "true"
@@ -103,16 +103,5 @@
     <MESSAGE value="new commit Add Constants&#10;Add controllers for all classes&#10;Add services foe all classes&#10;&#10;Change Id Type from String to int&#10;Service starts and show result in postmen" />
     <MESSAGE value="update project" />
     <option name="LAST_COMMIT_MESSAGE" value="update project" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
