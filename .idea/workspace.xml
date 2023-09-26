@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3347111e-3969-4078-9cc3-bafe9df08bdc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/dreams_2/project/model/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dreams_2/project/model/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/dreams_2/project/ProjectDreamApplicationTests 2.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +28,7 @@
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
         <option name="accountId" value="9bbc8cc1-735e-4e1e-80e6-6cef5946864e" />
-        <option name="url" value="https://github.com/vsakhanda/Dreams-2.git" />
+        <option name="url" value="https://github.com/vsakhanda/TravelPlanner.git" />
       </UrlAndAccount>
     </option>
   </component>
@@ -57,6 +59,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "spring",
+    "node.js.selected.package.tslint": "(autodetect)",
     "onboarding.tips.debug.path": "/Users/macuser/IdeaProjects/Dream-2/src/main/java/org/example/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
@@ -71,16 +74,35 @@
       <updated>1695239898860</updated>
       <workItem from="1695239899859" duration="1000" />
     </task>
+    <task id="LOCAL-00001" summary="new commit Add Constants&#10;Add controllers for all classes&#10;Add services foe all classes&#10;&#10;Change Id Type from String to int&#10;Service starts and show result in postmen">
+      <option name="closed" value="true" />
+      <created>1695728201196</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695728201196</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update project">
+      <option name="closed" value="true" />
+      <created>1695728298901</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695728298901</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="new commit" />
     <MESSAGE value="new commit Add Constants&#10;Add user controller&#10;Add models&#10;Add service.&#10;Service starts and show result in postmen" />
     <MESSAGE value="new commit Add Constants&#10;Add controllers for all classes&#10;Add services foe all classes&#10;&#10;Change Id Type from String to int&#10;Service starts and show result in postmen" />
-    <option name="LAST_COMMIT_MESSAGE" value="new commit Add Constants&#10;Add controllers for all classes&#10;Add services foe all classes&#10;&#10;Change Id Type from String to int&#10;Service starts and show result in postmen" />
+    <MESSAGE value="update project" />
+    <option name="LAST_COMMIT_MESSAGE" value="update project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
