@@ -6,7 +6,6 @@ import lombok.Builder;
 import lombok.Getter;
 import lombok.Setter;
 
-import java.util.Objects;
 
 @AllArgsConstructor
 @Builder
@@ -27,14 +26,6 @@ public class Point {
 //    private String district;
 //    private String regions ;
 
-    private double latitude;
-    private double  longitude;
-    private String description;
-    private String point_adress;
-    private String phone_number;
-    private String link;
-    private String district;
-    private String regions ;
 
 
 }
